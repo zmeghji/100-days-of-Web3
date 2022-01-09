@@ -1,34 +1,28 @@
 # 100-days-of-Web3
-This is a list of the content I shared about Web3 for the upcoming 100 days
-
-You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_name=FrancescoCiull4)
-
 
 
 
 | Day           | Topic | Link|
 | ------------- | ------------- |------------- |
-| 19-12-2021    |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
-| 20-12-2021    |Solidity projects on GitHub|https://twitter.com/FrancescoCiull4/status/1472816770692042752|
-| 21-12-2021    |Solidity reserved keywords|https://twitter.com/FrancescoCiull4/status/1473157550862442500|
-| 22-12-2021    |NFT projects on GitHub|https://twitter.com/FrancescoCiull4/status/1473536967195467780|
-| 23-12-2021    |Ethereum roadmap 2022 article|https://twitter.com/FrancescoCiull4/status/1473893373614469122|
-| 24-12-2021    |Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1474284493779484673|
-| 25-12-2021    |ERC-20|https://twitter.com/FrancescoCiull4/status/1474652739833630727|
-| 26-12-2021    |Solidity Events|https://twitter.com/FrancescoCiull4/status/1475048760422064130|
-| 27-12-2021    |Solidity Mapping Types|https://twitter.com/FrancescoCiull4/status/1475336310412005376|
-| 28-12-2021    |Solidity function modifiers|https://twitter.com/FrancescoCiull4/status/1475702911787311107|
-| 29-12-2021    |Solidity require|https://twitter.com/FrancescoCiull4/status/1476045244718370818|
-| 30-12-2021    |Solidity State variables|https://twitter.com/FrancescoCiull4/status/1476434189625049097|
-| 31-12-2021    |EVM Concepts|https://twitter.com/FrancescoCiull4/status/1476793011447214112|
-| 1-1-2022      |Decentralized Apps Frameworks|https://twitter.com/FrancescoCiull4/status/1477177460504604673|
-| 2-1-2022      |Solidity Function types|https://twitter.com/FrancescoCiull4/status/1477503734204747780|
-| 3-1-2022      |Solidity view and pure functions|https://twitter.com/FrancescoCiull4/status/1477880402446585861|
-| 4-1-2022      |Ethereum Accounts thread|https://twitter.com/FrancescoCiull4/status/1478254576448983042|
-| 5-1-2022      |Ethereum Transactions|https://twitter.com/FrancescoCiull4/status/1478599019089780742|
-| 6-1-2022      |Web3 Other languages|https://twitter.com/FrancescoCiull4/status/1478975480145616896|
-| 7-1-2022      |Block concepts|https://twitter.com/FrancescoCiull4/status/1479402859640799232|
-| 8-1-2022      |Solidity msg variables|https://twitter.com/FrancescoCiull4/status/1479700232707649539|
+| 21-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 22-12-2021    |Solidity/Ethereum/Web3/Go Ethereum|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 23-12-2021    |Solidity/Ethereum/Web3/Testing|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 24-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 25-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 26-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 27-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 28-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 29-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 30-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 31-12-2021    ||
+| 1-1-2022      ||
+| 2-1-2022      ||
+| 3-1-2022      ||
+| 4-1-2022      ||
+| 5-1-2022      ||
+| 6-1-2022      ||
+| 7-1-2022      ||
+| 8-1-2022      ||
 | 9-1-2022      ||
 | 10-1-2022     ||
 | 11-1-2022     ||
@@ -108,3 +102,5 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 26-3-2022     ||
 | 27-3-2022     ||
 | 28-3-2022     ||
+| 29-3-2022     ||
+| 30-3-2022     ||
