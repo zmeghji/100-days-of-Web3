@@ -4,26 +4,26 @@
 
 | Day           | Topic | Link|
 | ------------- | ------------- |------------- |
-| 21-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 22-12-2021    |Solidity/Ethereum/Web3/Go Ethereum|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 23-12-2021    |Solidity/Ethereum/Web3/Testing|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 24-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 25-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 26-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 27-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 28-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 29-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 30-12-2021    |Solidity/Ethereum/Web3/Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
-| 31-12-2021    ||
-| 1-1-2022      ||
-| 2-1-2022      ||
-| 3-1-2022      ||
-| 4-1-2022      ||
-| 5-1-2022      ||
-| 6-1-2022      ||
-| 7-1-2022      ||
-| 8-1-2022      ||
-| 9-1-2022      ||
+| 21-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 22-12-2021    |Solidity, Ethereum, Web3, Go Ethereum|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 23-12-2021    |Solidity, Ethereum, Web3, Testing|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 24-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 25-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 26-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 27-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 28-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 29-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 30-12-2021    |Solidity, Ethereum, Web3, Dapps|https://permanentiteration.com/100-days-of-web3-days-1-10/|
+| 31-12-2021    |Solidity, Dex, Testing|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 1-1-2022      |Solidity, Dex, Testing|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 2-1-2022      |Solidity, Smart Contract Security, Upgradeability|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 3-1-2022      |Chainlink/Oracles|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 4-1-2022      |Moralis intro, Moralis 1inch plugin|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 5-1-2022      |Moralis, React|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 6-1-2022      |React|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 7-1-2022      |Phaser, game programming|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 8-1-2022      |ERC20, web3.js, Metamask integration|https://permanentiteration.com/100-days-of-web3-days-11-20/|
+| 9-1-2022      |ERC1155|https://permanentiteration.com/100-days-of-web3-days-11-20/|
 | 10-1-2022     ||
 | 11-1-2022     ||
 | 12-1-2022     ||
