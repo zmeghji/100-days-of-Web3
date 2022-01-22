@@ -24,16 +24,16 @@
 | 7-1-2022      |Phaser, game programming|https://permanentiteration.com/100-days-of-web3-days-11-20/|
 | 8-1-2022      |ERC20, web3.js, Metamask integration|https://permanentiteration.com/100-days-of-web3-days-11-20/|
 | 9-1-2022      |ERC1155|https://permanentiteration.com/100-days-of-web3-days-11-20/|
-| 10-1-2022     ||
-| 11-1-2022     ||
-| 12-1-2022     ||
-| 13-1-2022     ||
-| 14-1-2022     ||
-| 15-1-2022     ||
-| 16-1-2022     ||
-| 17-1-2022     ||
-| 18-1-2022     ||
-| 19-1-2022     ||
+| 10-1-2022     |Integrating ERC1155 into games|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 11-1-2022     |Avalanche, Flashloans, DeFi|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 12-1-2022     |DeFi Benefits and History, NFTs|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 13-1-2022     |NFTs, DeFi Risks|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 14-1-2022     |Stablecoins, AAVE, Compound, UUPS pattern|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 15-1-2022     |Smart Contract Security, Hardhat|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 16-1-2022     |Smart Contract Security|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 17-1-2022     |Static/Dynamic code analysis, DeFi concepts|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 18-1-2022     |Integrating with DeFi protocols, Next.Js, Web3.js|https://permanentiteration.com/100-days-of-web3-days-21-30/|
+| 19-1-2022     |Yield Farming|https://permanentiteration.com/100-days-of-web3-days-21-30/|
 | 20-1-2022     ||
 | 21-1-2022     ||
 | 22-1-2022     ||
