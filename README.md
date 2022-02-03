@@ -34,17 +34,17 @@
 | 17-1-2022     |Static/Dynamic code analysis, DeFi concepts|https://permanentiteration.com/100-days-of-web3-days-21-30/|
 | 18-1-2022     |Integrating with DeFi protocols, Next.Js, Web3.js|https://permanentiteration.com/100-days-of-web3-days-21-30/|
 | 19-1-2022     |Yield Farming|https://permanentiteration.com/100-days-of-web3-days-21-30/|
-| 20-1-2022     ||
-| 21-1-2022     ||
-| 22-1-2022     ||
-| 23-1-2022     ||
-| 24-1-2022     ||
-| 25-1-2022     ||
-| 26-1-2022     ||
-| 27-1-2022     ||
-| 28-1-2022     ||
-| 29-1-2022     ||
-| 30-1-2022     ||
+| 20-1-2022     |Flashloans,DeFi|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 21-1-2022     |Flashloans,DeFi|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 22-1-2022     |Brownie, OpenZeppelin Governor|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 23-1-2022     |OpenZeppelin Governor|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 24-1-2022     |DAOs,OpenZeppelin Governor|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 25-1-2022     |OpenZeppelin Governor, Hardhat scripts|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 26-1-2022     |Solidity Assembly|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 27-1-2022     |Web3Storage, IPFS, Filecoin|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 28-1-2022     |ERC1155, DAOs|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 29-1-2022     |ERC1155, DAOs|https://permanentiteration.com/100-days-of-web3-days-31-40/|
+| 30-1-2022     |Hardhat, Testing|https://permanentiteration.com/100-days-of-web3-days-31-40/|
 | 31-1-2022     ||
 | 1-2-2022      ||
 | 2-2-2022      ||
