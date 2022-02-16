@@ -45,16 +45,16 @@
 | 28-1-2022     |ERC1155, DAOs|https://permanentiteration.com/100-days-of-web3-days-31-40/|
 | 29-1-2022     |ERC1155, DAOs|https://permanentiteration.com/100-days-of-web3-days-31-40/|
 | 30-1-2022     |Hardhat, Testing|https://permanentiteration.com/100-days-of-web3-days-31-40/|
-| 31-1-2022     ||
-| 1-2-2022      ||
-| 2-2-2022      ||
-| 3-2-2022      ||
-| 4-2-2022      ||
-| 5-2-2022      ||
-| 6-2-2022      ||
-| 7-2-2022      ||
-| 8-2-2022      ||
-| 9-2-2022      ||
+| 31-1-2022     |React, create-react-app, Metamask login|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 1-2-2022      |React Router|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 2-2-2022      |ethers.js, ERC-1155|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 3-2-2022      |react-bootstrap, ethers.js|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 4-2-2022      |React hooks, ethers.js|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 5-2-2022      |Recharts, ethers.js |https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 6-2-2022      |Azure Static Website, Azure PowerShell|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 7-2-2022      |dapp.tools|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 8-2-2022      |Maker whitepaper, Dai token|https://permanentiteration.com/100-days-of-web3-days-41-50/|
+| 9-2-2022      |Maker contracts (join,vat,spot)|https://permanentiteration.com/100-days-of-web3-days-41-50/|
 | 10-2-2022     ||
 | 11-2-2022     ||
 | 12-2-2022     ||
