@@ -55,16 +55,16 @@
 | 7-2-2022      |dapp.tools|https://permanentiteration.com/100-days-of-web3-days-41-50/|
 | 8-2-2022      |Maker whitepaper, Dai token|https://permanentiteration.com/100-days-of-web3-days-41-50/|
 | 9-2-2022      |Maker contracts (join,vat,spot)|https://permanentiteration.com/100-days-of-web3-days-41-50/|
-| 10-2-2022     ||
-| 11-2-2022     ||
-| 12-2-2022     ||
-| 13-2-2022     ||
-| 14-2-2022     ||
-| 15-2-2022     ||
-| 16-2-2022     ||
-| 17-2-2022     ||
-| 18-2-2022     ||
-| 19-2-2022     ||
+| 10-2-2022     |Maker protocol (dog)|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 11-2-2022     |Maker protocol (clipper)|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 12-2-2022     |Maker protocol (abacus)|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 13-2-2022     |Maker protocol (flapper, flopper,vow)|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 14-2-2022     |Maker protocol (jug, pot)|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 15-2-2022     |Foundry|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 16-2-2022     |GitHub Actions, Foundry, Maker|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 17-2-2022     |Solidity Libraries, Maker|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 18-2-2022     |Solidity Interfaces, Maker, Foundry|https://permanentiteration.com/100-days-of-web3-days-51-60/|
+| 19-2-2022     |Testing Events, Maker, Foundry|https://permanentiteration.com/100-days-of-web3-days-51-60/|
 | 20-2-2022     ||
 | 21-2-2022     ||
 | 22-2-2022     ||
