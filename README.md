@@ -65,16 +65,16 @@
 | 17-2-2022     |Solidity Libraries, Maker|https://permanentiteration.com/100-days-of-web3-days-51-60/|
 | 18-2-2022     |Solidity Interfaces, Maker, Foundry|https://permanentiteration.com/100-days-of-web3-days-51-60/|
 | 19-2-2022     |Testing Events, Maker, Foundry|https://permanentiteration.com/100-days-of-web3-days-51-60/|
-| 20-2-2022     ||
-| 21-2-2022     ||
-| 22-2-2022     ||
-| 23-2-2022     ||
-| 24-2-2022     ||
-| 25-2-2022     ||
-| 26-2-2022     ||
-| 27-2-2022     ||
-| 28-2-2022     ||
-| 1-3-2022      ||
+| 20-2-2022     |Solidity, Foundry, Maker |https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 21-2-2022     |Solidity, Foundry, Maker |https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 22-2-2022     |Solidity Assembly, Foundry, Maker |https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 23-2-2022     |OpenZeppelin, Solidity, Foundry, Maker|https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 24-2-2022     |Solidity, Foundry, Maker|https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 25-2-2022     |Bash/Shell, Sed, Cast (Foundry), Kovan|https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 26-2-2022     |Bash/Shell, Sed, Cast (Foundry)|https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 27-2-2022     |Bash/Shell, Sed, Cast (Foundry)|https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 28-2-2022     |Bash/Shell, Sed, Cast (Foundry)|https://permanentiteration.com/100-days-of-web3-days-61-70/|
+| 1-3-2022      |Polygon Architecture, PolygonScan API |https://permanentiteration.com/100-days-of-web3-days-61-70/|
 | 2-3-2022      ||
 | 3-3-2022      ||
 | 4-3-2022      ||
