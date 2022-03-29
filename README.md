@@ -75,26 +75,26 @@
 | 27-2-2022     |Bash/Shell, Sed, Cast (Foundry)|https://permanentiteration.com/100-days-of-web3-days-61-70/|
 | 28-2-2022     |Bash/Shell, Sed, Cast (Foundry)|https://permanentiteration.com/100-days-of-web3-days-61-70/|
 | 1-3-2022      |Polygon Architecture, PolygonScan API |https://permanentiteration.com/100-days-of-web3-days-61-70/|
-| 2-3-2022      ||
-| 3-3-2022      ||
-| 4-3-2022      ||
-| 5-3-2022      ||
-| 6-3-2022      ||
-| 7-3-2022      ||
-| 8-3-2022      ||
-| 9-3-2022      ||
-| 10-3-2022     ||
-| 11-3-2022     ||
-| 12-3-2022     ||
-| 13-3-2022     ||
-| 14-3-2022     ||
-| 15-3-2022     ||
-| 16-3-2022     ||
-| 17-3-2022     ||
-| 18-3-2022     ||
-| 19-3-2022     ||
-| 20-3-2022     ||
-| 21-3-2022     ||
+| 2-3-2022      |matic.js|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 3-3-2022      |Polygon PoS bridge, matic.js|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 4-3-2022      |fx-portal|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 5-3-2022      |matic.js, proof-of-burn|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 6-3-2022      |Meta transactions, Biconomy|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 7-3-2022      |Arbitrum Token Deposits and Withdrawals|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 8-3-2022      |Arbitrum State Transfer|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 9-3-2022      |Arbitrum outbox and custom token bridging|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 10-3-2022     |Optimism|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 11-3-2022     |Polygon Fx Portal Custom tokens|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 12-3-2022     |Polygon Fx Portal Custom tokens|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 13-3-2022     |Polygon Fx Portal Custom Deployment|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 14-3-2022     |Polygon Fx Portal custom token withdrawals/ deposits, matic.js|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 15-3-2022     |matic.js, troubleshooting|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 16-3-2022     |Arbitrum custom token/custom gateway|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 17-3-2022     |Deploying custom token Eth/Arbitrum|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 18-3-2022     |Troubleshooting Eth/Arbitrum deployment for Custom Token|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 19-3-2022     |Optimism Standard Token bridging, Running Optimism locally|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 20-3-2022     |Custom Token contracts for Optimism|https://permanentiteration.com/100-days-of-web3-days-71-90/|
+| 21-3-2022     |Deploying, depositing and withdrawing tokens between Ethereum and Optimism|https://permanentiteration.com/100-days-of-web3-days-71-90/|
 | 22-3-2022     ||
 | 23-3-2022     ||
 | 24-3-2022     ||
@@ -104,3 +104,4 @@
 | 28-3-2022     ||
 | 29-3-2022     ||
 | 30-3-2022     ||
+| 31-3-2022     ||
