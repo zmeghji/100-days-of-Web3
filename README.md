@@ -95,13 +95,13 @@
 | 19-3-2022     |Optimism Standard Token bridging, Running Optimism locally|https://permanentiteration.com/100-days-of-web3-days-71-90/|
 | 20-3-2022     |Custom Token contracts for Optimism|https://permanentiteration.com/100-days-of-web3-days-71-90/|
 | 21-3-2022     |Deploying, depositing and withdrawing tokens between Ethereum and Optimism|https://permanentiteration.com/100-days-of-web3-days-71-90/|
-| 22-3-2022     ||
-| 23-3-2022     ||
-| 24-3-2022     ||
-| 25-3-2022     ||
-| 26-3-2022     ||
-| 27-3-2022     ||
-| 28-3-2022     ||
-| 29-3-2022     ||
-| 30-3-2022     ||
-| 31-3-2022     ||
+| 22-3-2022     |Optimism, ethers.js scripts|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 23-3-2022     |Arbitrum Sdk|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 24-3-2022     |Arbitrum Sdk, ethers.js |https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 25-3-2022     |Arbitrum|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 26-3-2022     |Arbitrum|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 27-3-2022     |Optimism tokens |https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 28-3-2022     |Optimism, ethers.js|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 29-3-2022     |Blockchain, Ethereum, Smart Contracts, Tokens|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 30-3-2022     |Teaching Solidity|https://permanentiteration.com/100-days-of-web3-days-91-100/
+| 31-3-2022     |Teaching ERC-20 tokens|https://permanentiteration.com/100-days-of-web3-days-91-100/
